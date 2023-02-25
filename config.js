@@ -24,7 +24,7 @@ global.prems = ['528451003894'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = ar  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = en  //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
